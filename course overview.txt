@@ -1,0 +1,12 @@
+Topics:
+-Anatomy of Dart program, I/O and Dart Libraries, Greatings
+-Common programming cocepts in dart
+      type systems, variables and assignments, operators,     null-aware operators
+-Control flow in dart
+      if and else, switch and case, loops
+-Functions
+     anatomy, parameters, advanced function concepts
+-OOP
+  classes, constructors, inhieritance, enumerators
+
+
